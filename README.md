@@ -69,7 +69,5 @@ files are excluded through `.gitignore`.
 
 ## Further reading
 
-- [Presentation notes (Turkish)](docs/SUNUM.md)
-- [Chrome and agent setup (Turkish)](docs/CHROME-AGENT.md)
 - [WebMCP documentation](https://developer.chrome.com/docs/ai/webmcp)
 - [React hook](https://github.com/GoogleChromeLabs/use-webmcp-tool)
